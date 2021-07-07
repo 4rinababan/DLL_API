@@ -1,0 +1,8 @@
+C:\Users\mis\source\repos\API\API\bin\Release\API.dll
+C:\Users\mis\source\repos\API\API\bin\Release\API.pdb
+C:\Users\mis\source\repos\API\API\bin\Release\Newtonsoft.Json.dll
+C:\Users\mis\source\repos\API\API\bin\Release\Newtonsoft.Json.xml
+C:\Users\mis\source\repos\API\API\obj\Release\API.csproj.CoreCompileInputs.cache
+C:\Users\mis\source\repos\API\API\obj\Release\API.csproj.CopyComplete
+C:\Users\mis\source\repos\API\API\obj\Release\API.dll
+C:\Users\mis\source\repos\API\API\obj\Release\API.pdb
